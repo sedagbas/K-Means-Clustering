@@ -10,7 +10,4 @@ In this project, a class hierarchy to implement the K-Means clustering method wa
 **OUTPUT**
 
 ![cikti1](https://github.com/sedagbas/K-Means-Clustering/assets/159046448/c1c57eb7-bcbd-431d-b44a-5aa9de9a18ab)
-![cikti2](https://github.com/sedagbas/K-Means-Clustering/assets/159046448/fecdf3f2-572e-46ff-83b1-779377bf6998)
-
-
-
+![cikti2](https://github.com/sedagbas/K-Means-Clustering/assets/159046448/bed0b464-05ee-4af5-8209-13db18eecae3)
