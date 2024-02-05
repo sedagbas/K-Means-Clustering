@@ -1,11 +1,11 @@
 # K-Means-Clustering
 In this project, a class hierarchy to implement the K-Means clustering method was designed.
 
-	 The "Coordinates" class is the foundational element, encapsulating the x and y coordinates of points in a two-dimensional space. This class was conceived to represent individual data points, allowing for easy manipulation and retrieval of coordinates.
+1. The "Coordinates" class is the foundational element, encapsulating the x and y coordinates of points in a two-dimensional space. This class was conceived to represent individual data points, allowing for easy manipulation and retrieval of coordinates.
   
-	 The "Sample" class was introduced to manage the input data from an external file. By employing a static vector to hold the sample points, this class ensures that the data is efficiently stored and accessible throughout the program. The design decision to encapsulate file reading and sample vector initialization within the constructor enhances the class's usability and reduces the burden on the end-user.
+2. The "Sample" class was introduced to manage the input data from an external file. By employing a static vector to hold the sample points, this class ensures that the data is efficiently stored and accessible throughout the program. The design decision to encapsulate file reading and sample vector initialization within the constructor enhances the class's usability and reduces the burden on the end-user.
 
-	 The "K_Clusters" class, derived from "Sample," which encapsulates the K-Means clustering logic. This design choice enables the seamless integration of clustering functionalities while maintaining a clear separation of concerns among different classes.
+3. The "K_Clusters" class, derived from "Sample," which encapsulates the K-Means clustering logic. This design choice enables the seamless integration of clustering functionalities while maintaining a clear separation of concerns among different classes.
 
 **OUTPUT**
 
